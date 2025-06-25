@@ -9,12 +9,22 @@
  */
 {
   "sections": {
-    "main": {
-      "type": "hello-world",
+    "collections_ffxaDr": {
+      "type": "collections",
+      "name": "t:general.collections_grid",
+      "settings": {
+        "grid_item_width": "collections--full",
+        "grid_gap": 10
+      }
+    },
+    "custom_section_xhUTPk": {
+      "type": "custom-section",
+      "name": "t:general.custom_section",
       "settings": {}
     }
   },
   "order": [
-    "main"
+    "collections_ffxaDr",
+    "custom_section_xhUTPk"
   ]
 }
