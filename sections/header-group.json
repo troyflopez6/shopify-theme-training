@@ -29,11 +29,17 @@
       "type": "custom-section",
       "name": "t:general.custom_section",
       "settings": {}
+    },
+    "hero_BtpHwa": {
+      "type": "hero",
+      "name": "Hero",
+      "settings": {}
     }
   },
   "order": [
     "header",
     "collections_CpqnRf",
-    "custom_section_ihDNee"
+    "custom_section_ihDNee",
+    "hero_BtpHwa"
   ]
 }
