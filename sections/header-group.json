@@ -25,6 +25,11 @@
         "grid_gap": 10
       }
     },
+    "hero_CFcPia": {
+      "type": "hero",
+      "name": "Hero",
+      "settings": {}
+    },
     "custom_section_ihDNee": {
       "type": "custom-section",
       "name": "t:general.custom_section",
@@ -33,6 +38,7 @@
   },
   "order": [
     "header",
+    "hero_CFcPia",
     "collections_CpqnRf",
     "custom_section_ihDNee"
   ]
