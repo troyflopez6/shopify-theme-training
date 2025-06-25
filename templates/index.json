@@ -12,9 +12,15 @@
     "main": {
       "type": "hello-world",
       "settings": {}
+    },
+    "hero_rkHmAV": {
+      "type": "hero",
+      "name": "Hero",
+      "settings": {}
     }
   },
   "order": [
-    "main"
+    "main",
+    "hero_rkHmAV"
   ]
 }
