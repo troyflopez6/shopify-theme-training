@@ -1,0 +1,17 @@
+.header-container {
+    margin-top: 100px;
+}
+
+.header-container h1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.header-container img {
+   width: 310px;
+}
+
+.header-container span {
+    margin-top: 20px;
+    font-size: 29px;
+}
