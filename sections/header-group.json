@@ -13,10 +13,27 @@
   "sections": {
     "header": {
       "type": "header",
+      "settings": {
+        "menu": ""
+      }
+    },
+    "collections_CpqnRf": {
+      "type": "collections",
+      "name": "t:general.collections_grid",
+      "settings": {
+        "grid_item_width": "collections--full",
+        "grid_gap": 10
+      }
+    },
+    "custom_section_ihDNee": {
+      "type": "custom-section",
+      "name": "t:general.custom_section",
       "settings": {}
     }
   },
   "order": [
-    "header"
-  ],
+    "header",
+    "collections_CpqnRf",
+    "custom_section_ihDNee"
+  ]
 }
